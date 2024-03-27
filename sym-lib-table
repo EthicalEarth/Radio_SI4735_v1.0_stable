@@ -1,7 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "TDA1517P")(type "KiCad")(uri "${KIPRJMOD}/TDA1517/TDA1517P_N3_112.kicad_sym")(options "")(descr ""))
-  (lib (name "TCA9517DR")(type "KiCad")(uri "${KIPRJMOD}/TCA9517DR/TCA9517DR.kicad_sym")(options "")(descr ""))
-  (lib (name "MEGA_PRO_EMBED_CH340G_ATMEGA2560")(type "KiCad")(uri "${MEGA_PRO_EMBED_CH340G_ATMEGA2560}/MEGA_PRO_EMBED_CH340G_ATMEGA2560.kicad_sym")(options "")(descr ""))
-  (lib (name "SI4735-rescue")(type "KiCad")(uri "${KIPRJMOD}/SI4735-rescue.kicad_sym")(options "")(descr ""))
-)
